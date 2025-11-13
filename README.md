@@ -125,6 +125,3 @@ __pycache__/
 *.pyc
 ```
 
-
-That is the complete `README.md` file from start to finish. Let me know if you need anything else!
----
